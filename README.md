@@ -3,7 +3,6 @@
 
 ![image](https://github.com/1136346879/flutter-/blob/master/gifStorage/%E5%9F%8E%E5%B8%82%E9%80%89%E6%8B%A9.gif)
 
-代码地址：https：// github.com/1136346879/picture_dx
 
 代码详细如下：主要逻辑内容在这个类中AreaSelectorDialog.class
 
@@ -67,3 +66,7 @@
 
 TabLayout是动态添加和减少的
 recycleview是动态显示城市列表，由接口控制，及上一级城市code
+
+
+代码地址：https://github.com/1136346879/picture_dx
+
